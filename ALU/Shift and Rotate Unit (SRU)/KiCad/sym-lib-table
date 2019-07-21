@@ -1,0 +1,4 @@
+(sym_lib_table
+   (lib (name Barrel-Shift-and-Rotate)(type Legacy)(uri ${KIPRJMOD}/Barrel-Shift-and-Rotate.lib)(options "")(descr ""))
+   (lib (name dk-lib)(type Legacy)(uri ${KIPRJMOD}/dk-lib.lib)(options "")(descr ""))
+)
